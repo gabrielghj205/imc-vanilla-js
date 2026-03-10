@@ -8,4 +8,3 @@ CSS
 javascript (vanilla js)
 
 ## 📄licença
-este projeto esta licenciado sobre **licença MIT**
